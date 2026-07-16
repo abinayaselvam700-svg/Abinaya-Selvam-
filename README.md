@@ -41,6 +41,6 @@ Analytics: Exploratory Data Analysis (EDA) · Statistical Analysis · Trend Iden
 📗 Google Advanced Data Analytics Certificate — Coursera (In Progress)
 
 📫 Connect with Me
-💼 LinkedIn:
+💼 LinkedIn:https://www.linkedin.com/in/abinaya-s-a00382413?utm_source=share_via&utm_content=profile&utm_medium=member_android.
 📧 Email: abinayaselvam700@gmail.com
 �
