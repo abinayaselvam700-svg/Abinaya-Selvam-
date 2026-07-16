@@ -39,6 +39,13 @@ Analytics: Exploratory Data Analysis (EDA) · Statistical Analysis · Trend Iden
 📘 Google Data Analytics Professional Certificate — Coursera
 
 📗 Google Advanced Data Analytics Certificate — Coursera (In Progress)
+🏅 IBM SkillsBuild — Getting Started with Data
+
+💼 Deloitte Australia — Data Analytics Job Simulation (Forage)
+
+💼 GenAI Powered Data Analytics Job Simulation (Forage)
+
+🔧 GIT Training — Simplilearn
 
 📫 Connect with Me
 💼 LinkedIn:https://www.linkedin.com/in/abinaya-s-a00382413?utm_source=share_via&utm_content=profile&utm_medium=member_android.
